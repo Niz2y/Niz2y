@@ -1,4 +1,4 @@
-# @kzn-now
+# About @kzn-now
 - 🎨・GFX Artist
 - 📱・Ui Designer
 
