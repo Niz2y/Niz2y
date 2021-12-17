@@ -4,6 +4,7 @@
 
 # Connections
 - 💫・kzn#1903
-- 🥤・[Youtube](https://www.youtube.com/channel/UCqNk4VS9F3JMYpfN6T160ww)
 - 🔧・[Website](https://kznnow.repl.co/)
-- 💣・[Reddit](https://www.reddit.com/user/kzn-now)
+- 🥤・[Youtube](https://kznnow.repl.co/connections/youtube/)
+- 💣・[Reddit](https://kznnow.repl.co/connections/reddit/)
+- 🎮・[Discord](https://kznnow.repl.co/connections/discord/)
