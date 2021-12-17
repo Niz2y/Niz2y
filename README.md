@@ -1,6 +1,7 @@
 # About @kzn-now
 - 🎨・GFX Artist
 - 📱・Ui Designer
+- 👩‍🎨・Artist with 2 years of experience
 
 # Connections
 - 💫・kzn#1903
