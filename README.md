@@ -1,3 +1,6 @@
+# Status
+- Currently learning simple html!
+
 # About @kzn-now
 - 🎨・GFX Artist
 - 📱・Ui Designer
