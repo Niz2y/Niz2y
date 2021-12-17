@@ -1,9 +1,7 @@
 # Status
-- Currently learning simple html!
+- Learning how to draw anime faces ^-^
 
 # About @kzn-now
-- 🎨・GFX Artist
-- 📱・Ui Designer
 - 👩‍🎨・Artist with 2 years of experience
 
 # Connections
