@@ -6,6 +6,7 @@
 
 # Connections
 - 💫・kzn#1903
+- 📫・contact@kzn-now.gq
 - 🔧・[Website](https://kzn-now.gq/)
 - 🥤・[Youtube](https://kzn-now.gq/connections/youtube/)
 - 💣・[Reddit](https://kzn-now.gq/connections/reddit/)
