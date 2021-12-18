@@ -6,7 +6,7 @@
 
 # Connections
 - 💫・kzn#1903
-- 🔧・[Website](https://kznnow.repl.co/)
-- 🥤・[Youtube](https://kznnow.repl.co/connections/youtube/)
-- 💣・[Reddit](https://kznnow.repl.co/connections/reddit/)
-- 🎮・[Discord](https://kznnow.repl.co/connections/discord/)
+- 🔧・[Website](https://kzn-now.gq/)
+- 🥤・[Youtube](https://kzn-now.gq/connections/youtube/)
+- 💣・[Reddit](https://kzn-now.gq/connections/reddit/)
+- 🎮・[Discord](https://kzn-now.gq/connections/discord/)
