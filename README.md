@@ -1,8 +1,6 @@
-# Status
-- Learning how to draw anime faces ^-^
-
 # About @kzn-now
-- 👩‍🎨・Artist with 2 years of experience
+- 👩‍🎨・Painting, Shading, Anime
+- 💻・HTML, Javascript and Python
 
 # Connections
 - 💫・kzn#1903
