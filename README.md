@@ -3,4 +3,4 @@
 
 # Connections
 - 💫・kzn#1903
-- 🎮・[Discord](https://anify.gq/)
+- 🎮・[Discord](https://discord.gg/fvraustfeh)
