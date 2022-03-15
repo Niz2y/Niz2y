@@ -1,5 +1,5 @@
-# About @kzn-now
-- 👩‍🎨・Painting, Shading, Anime
+# About Me
+- 👩‍🎨・Python, Shading, Anime
 
 # Connections
-- 🎮・[Discord](https://discord.gg/fvraustfeh)
+- 🎮・Nizzy#0685
