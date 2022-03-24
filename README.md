@@ -2,4 +2,4 @@
 - 👩‍🎨・Python, Shading, Anime
 
 # Connections
-- 🎮・Nizzy#0685
+- 🎮・Nizzy#8785
