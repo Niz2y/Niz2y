@@ -1,5 +1,5 @@
 # About
-- YouTube: https://youtube.com/c/Niz2y
+- YouTube: https://youtube.com/c/niz2y
 - Discord: Nizzy#4767
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&color=653FF7&lines=Nizzy%234767;Credit+me+if+you+do+skid+from+my+profile.)](https://git.io/typing-svg)
