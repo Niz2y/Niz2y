@@ -3,6 +3,5 @@
 - Discord: `Niz2y`
 
 ## About
-- 16 Years Old
-- Python, Javascript, PHP
+- Python
 - I hate CSS and HTML.
