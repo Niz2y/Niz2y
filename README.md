@@ -1,9 +1,8 @@
 ## Social Acounts
 - YouTube: `@Niz2y`
-- TikTok: `@Niz2y`
-- Discord: `Nizzy#6301`
+- Discord: `Niz2y`
 
 ## About
-- He/Him, 16 Years Old
+- 16 Years Old
 - Python, Javascript, PHP
-- Good at PHP and Javascript but terrible at CSS and HTML. Likes making APIs for personal use.
+- I hate CSS and HTML.
